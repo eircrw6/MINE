@@ -1,1 +1,1 @@
-# Repo for images
+# Directory for images
